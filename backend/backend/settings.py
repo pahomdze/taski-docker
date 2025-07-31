@@ -10,7 +10,6 @@ DEBUG = False
 
 ALLOWED_HOSTS = ['backend', 'localhost', 'sashenka.zapto.org', '84.201.141.207']
 
-
 INSTALLED_APPS = [
     'api.apps.ApiConfig',
     'django.contrib.admin',
